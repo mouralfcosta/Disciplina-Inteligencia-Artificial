@@ -1,1 +1,1 @@
-# Disciplina-Intelig-ncia-Artificial
+# Disciplina-Inteligencia-Artificial
