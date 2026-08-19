@@ -24,6 +24,5 @@ Desenvolver conhecimentos em programação com Python e aplicar conceitos relaci
 
 **Lucas Moura — Turma 6B**
 
----
-
- Projeto desenvolvido para fins acadêmicos.
+**link do codigo no colab**
+https://colab.research.google.com/drive/1MbaZtMBxjAaUWAPnLVZaQHkvKzcbN7de
