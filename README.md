@@ -26,4 +26,5 @@ Desenvolver conhecimentos em programação com Python e aplicar conceitos relaci
 
 **link do codigo no colab**
 https://colab.research.google.com/drive/1MbaZtMBxjAaUWAPnLVZaQHkvKzcbN7de  -- 50 Exercicios de python
+
 https://colab.research.google.com/drive/17JktUy8djCNIcRm4dlqUNhsItyOHR5O8#scrollTo=U1JpV-o2hqtP -- Exercicio sobre as bibliotecas de python
